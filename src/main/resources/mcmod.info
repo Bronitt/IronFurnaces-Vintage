@@ -1,16 +1,14 @@
 [
 {
-  "modid": "ironfurnaces",
-  "name": "Iron Furnaces",
-  "description": "IronFurnaces is a mod that adds various tiers of metal furnaces that will smelt away to your desires.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "https://github.com/Qelifern/IronFurnaces/",
+  "modid": "${mod_id}",
+  "name": "${mod_name}",
+  "description": "",
+  "version": "${mod_version}",
+  "mcversion": "1.12.2",
+  "url": "${mod_url}",
   "updateUrl": "",
-  "authorList": ["Qelifern (pizzaatime)"],
-  "credits": "Java, JetBrains, Minecraft, MinecraftForge, LexManos, mezz, Ellpeck, KingLemming",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
+  "authorList": ["XenoMustache"],
+  "credits": "${mod_credits}",
+  "logoFile": "logo.png"
 }
 ]
